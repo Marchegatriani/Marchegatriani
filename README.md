@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi! I am Gatri!!!:
 🎓 I am an Information Systems student at Universitas Hasanuddin  <br>💻 I've learned Python basics and Object-Oriented Programming in Java  <br>⚡ Fun fact: I’m a crocheter 🧶 and a traditional dancer 💃
 
 
