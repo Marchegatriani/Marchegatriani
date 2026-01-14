@@ -1,5 +1,5 @@
 # 💫 Hi! I am Gatri!!!
-🎓 I am an Information Systems student at Universitas Hasanuddin  <br>💻 I've learned Python basics and Object-Oriented Programming in Java, HTML, Tailwind, PHP, and laravel For Website.   <br>⚡I’m a crocheter 🧶 and a traditional dancer 💃
+🎓 I am an Information Systems student at Universitas Hasanuddin  <br>💻 I've learned Python basics and Object-Oriented Programming in Java, and Laravel For Website.   <br>⚡I’m a crocheter 🧶 and a traditional dancer 💃
 
 
 ## 🌐 Socials:
